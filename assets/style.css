@@ -3,6 +3,7 @@
     font-family: "Georgia", sans-serif;
     font-size: 70px;
 }
+
 body {
     background-image: url("./background.jpg");
     background-color: black;
@@ -14,8 +15,4 @@ body {
 
 .blacktext{
     color: black;
-}
-
-.background{
-    color: darkslategray;
 }
