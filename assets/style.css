@@ -1,0 +1,21 @@
+.name{
+    color: whitesmoke;
+    font-family: "Georgia", sans-serif;
+    font-size: 70px;
+}
+body {
+    background-image: url("./background.jpg");
+    background-color: black;
+  }
+
+.whitetext{
+    color: whitesmoke;
+}
+
+.blacktext{
+    color: black;
+}
+
+.background{
+    color: darkslategray;
+}
