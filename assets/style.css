@@ -16,3 +16,7 @@ body {
 .blacktext{
     color: black;
 }
+
+.smallHomeFont{
+    font-size: 35px;
+}
